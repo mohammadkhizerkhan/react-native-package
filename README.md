@@ -1,6 +1,6 @@
 # khan-package
 
-testing 
+testing
 
 ## Installation
 
@@ -11,11 +11,11 @@ npm install khan-package
 ## Usage
 
 ```js
-import { KhanPackageView } from "khan-package";
+import { KhanPackageView } from 'khan-package';
 
 // ...
 
-<KhanPackageView color="tomato" />
+<KhanPackageView color="tomato" />;
 ```
 
 ## Contributing
